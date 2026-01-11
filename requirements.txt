@@ -1,5 +1,5 @@
-streamlit
-sqlalchemy
+streamlit>=1.30
+sqlalchemy>=2.0
 pandas
 reportlab
 qrcode[pil]
